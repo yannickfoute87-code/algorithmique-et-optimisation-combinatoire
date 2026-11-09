@@ -1,0 +1,6 @@
+Livrable final CVRP - Groupe N5
+- Livrable_final_CVRP.ipynb : notebook (déjà exécuté, sorties incluses)
+- data/X/ : 100 instances VRPLIB (Uchoa et al., 2017) ; data/bks_X.json : meilleures solutions connues
+- cache/ : résultats des expériences (le notebook les recharge ; RECALCULER=1 pour tout refaire, ~15 min)
+- annexe/ : codes des quatre métaheuristiques de l'étude préliminaire (recuit, tabou, génétique, fourmis)
+Dépendances : python 3.10+, numpy, pandas, matplotlib, pulp==3.3.0 (solveur CBC inclus), jupyter.

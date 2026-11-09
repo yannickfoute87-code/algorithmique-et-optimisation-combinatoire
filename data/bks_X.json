@@ -1,0 +1,10 @@
+{
+  "source": "Vidal (2022), Hybrid genetic search for the CVRP: open-source implementation and SWAP* neighborhood, Computers & Operations Research 140, 105643 (arXiv:2012.10384) - colonne BKS des instances X de Uchoa et al. (2017). Les meilleures valeurs connues ont pu etre légèrement améliorées depuis sur CVRPLIB.",
+  "bks": {
+    "X-n101-k25": 27591, "X-n106-k14": 26362, "X-n110-k13": 14971, "X-n115-k10": 12747, "X-n120-k6": 13332,
+    "X-n125-k30": 55539, "X-n129-k18": 28940, "X-n134-k13": 10916, "X-n139-k10": 13590, "X-n143-k7": 15700,
+    "X-n148-k46": 43448, "X-n153-k22": 21220, "X-n157-k13": 16876, "X-n162-k11": 14138, "X-n167-k10": 20557,
+    "X-n172-k51": 45607, "X-n176-k26": 47812, "X-n181-k23": 25569, "X-n186-k15": 24145, "X-n190-k8": 16980,
+    "X-n200-k36": 58578, "X-n303-k21": 21736, "X-n401-k29": 66163, "X-n502-k39": 69226, "X-n1001-k43": 72359
+  }
+}
