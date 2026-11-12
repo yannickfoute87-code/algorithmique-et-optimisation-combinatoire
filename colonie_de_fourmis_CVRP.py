@@ -12,7 +12,6 @@ import random
 import re
 import time
 
-
 # ---------- Lecture des fichiers de référence (CVRPLIB) ----------
 def lire_instance(chemin):
     """Lit un fichier .vrp (format CVRPLIB) sans aucune bibliothèque."""
