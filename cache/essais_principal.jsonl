@@ -178,3 +178,39 @@
 {"algo": "Recuit simul\u00e9", "instance": "X-n190-k8", "n": 189, "seed": 2, "limite": 5.0, "cout": 17625.0, "faisable": true, "temps": 5.001514911651611, "message": "ok"}
 {"algo": "Tabou", "instance": "X-n190-k8", "n": 189, "seed": 2, "limite": 5.0, "cout": 17326.0, "faisable": true, "temps": 5.001866817474365, "message": "ok"}
 {"algo": "ACO", "instance": "X-n190-k8", "n": 189, "seed": 2, "limite": 5.0, "cout": 17852.0, "faisable": true, "temps": 5.003623723983765, "message": "ok"}
+{"algo": "Recuit simul\u00e9", "instance": "XL-n1048-k237", "n": 1047, "seed": 0, "limite": 30.0, "cout": 419647.0, "faisable": true, "temps": 30.077742338180542, "message": "ok"}
+{"algo": "Tabou", "instance": "XL-n1048-k237", "n": 1047, "seed": 0, "limite": 30.0, "cout": 411561.0, "faisable": true, "temps": 30.00167202949524, "message": "ok"}
+{"algo": "ACO", "instance": "XL-n1048-k237", "n": 1047, "seed": 0, "limite": 30.0, "cout": 414875.0, "faisable": true, "temps": 30.011913537979126, "message": "ok"}
+{"algo": "Recuit simul\u00e9", "instance": "XL-n1048-k237", "n": 1047, "seed": 1, "limite": 30.0, "cout": 402638.0, "faisable": true, "temps": 30.000490427017212, "message": "ok"}
+{"algo": "Tabou", "instance": "XL-n1048-k237", "n": 1047, "seed": 1, "limite": 30.0, "cout": 409209.0, "faisable": true, "temps": 30.002402305603027, "message": "ok"}
+{"algo": "ACO", "instance": "XL-n1048-k237", "n": 1047, "seed": 1, "limite": 30.0, "cout": 410979.0, "faisable": true, "temps": 30.02024555206299, "message": "ok"}
+{"algo": "Recuit simul\u00e9", "instance": "XL-n1048-k237", "n": 1047, "seed": 2, "limite": 30.0, "cout": 419647.0, "faisable": true, "temps": 30.000518083572388, "message": "ok"}
+{"algo": "Tabou", "instance": "XL-n1048-k237", "n": 1047, "seed": 2, "limite": 30.0, "cout": 409813.0, "faisable": true, "temps": 30.00152325630188, "message": "ok"}
+{"algo": "ACO", "instance": "XL-n1048-k237", "n": 1047, "seed": 2, "limite": 30.0, "cout": 413628.0, "faisable": true, "temps": 30.037993907928467, "message": "ok"}
+{"algo": "Recuit simul\u00e9", "instance": "XL-n1561-k75", "n": 1560, "seed": 0, "limite": 30.0, "cout": 104177.0, "faisable": true, "temps": 30.184612035751343, "message": "ok"}
+{"algo": "Tabou", "instance": "XL-n1561-k75", "n": 1560, "seed": 0, "limite": 30.0, "cout": 105385.0, "faisable": true, "temps": 30.00523042678833, "message": "ok"}
+{"algo": "ACO", "instance": "XL-n1561-k75", "n": 1560, "seed": 0, "limite": 30.0, "cout": 105404.0, "faisable": true, "temps": 30.03325891494751, "message": "ok"}
+{"algo": "Recuit simul\u00e9", "instance": "XL-n1561-k75", "n": 1560, "seed": 1, "limite": 30.0, "cout": 104662.0, "faisable": true, "temps": 30.004295587539673, "message": "ok"}
+{"algo": "Tabou", "instance": "XL-n1561-k75", "n": 1560, "seed": 1, "limite": 30.0, "cout": 105129.0, "faisable": true, "temps": 30.00165820121765, "message": "ok"}
+{"algo": "ACO", "instance": "XL-n1561-k75", "n": 1560, "seed": 1, "limite": 30.0, "cout": 105404.0, "faisable": true, "temps": 30.0379536151886, "message": "ok"}
+{"algo": "Recuit simul\u00e9", "instance": "XL-n1561-k75", "n": 1560, "seed": 2, "limite": 30.0, "cout": 105026.0, "faisable": true, "temps": 30.002009630203247, "message": "ok"}
+{"algo": "Tabou", "instance": "XL-n1561-k75", "n": 1560, "seed": 2, "limite": 30.0, "cout": 105124.0, "faisable": true, "temps": 30.0007541179657, "message": "ok"}
+{"algo": "ACO", "instance": "XL-n1561-k75", "n": 1560, "seed": 2, "limite": 30.0, "cout": 105404.0, "faisable": true, "temps": 30.659818410873413, "message": "ok"}
+{"algo": "Recuit simul\u00e9", "instance": "XL-n2028-k617", "n": 2027, "seed": 0, "limite": 30.0, "cout": 561048.0, "faisable": true, "temps": 30.542784214019775, "message": "ok"}
+{"algo": "Tabou", "instance": "XL-n2028-k617", "n": 2027, "seed": 0, "limite": 30.0, "cout": 573159.0, "faisable": true, "temps": 30.001144409179688, "message": "ok"}
+{"algo": "ACO", "instance": "XL-n2028-k617", "n": 2027, "seed": 0, "limite": 30.0, "cout": 582089.0, "faisable": true, "temps": 30.028537273406982, "message": "ok"}
+{"algo": "Recuit simul\u00e9", "instance": "XL-n2028-k617", "n": 2027, "seed": 1, "limite": 30.0, "cout": 555141.0, "faisable": true, "temps": 30.000816583633423, "message": "ok"}
+{"algo": "Tabou", "instance": "XL-n2028-k617", "n": 2027, "seed": 1, "limite": 30.0, "cout": 573315.0, "faisable": true, "temps": 30.000832319259644, "message": "ok"}
+{"algo": "ACO", "instance": "XL-n2028-k617", "n": 2027, "seed": 1, "limite": 30.0, "cout": 582516.0, "faisable": true, "temps": 30.293531894683838, "message": "ok"}
+{"algo": "Recuit simul\u00e9", "instance": "XL-n2028-k617", "n": 2027, "seed": 2, "limite": 30.0, "cout": 558010.0, "faisable": true, "temps": 30.000819206237793, "message": "ok"}
+{"algo": "Tabou", "instance": "XL-n2028-k617", "n": 2027, "seed": 2, "limite": 30.0, "cout": 574699.0, "faisable": true, "temps": 30.001359939575195, "message": "ok"}
+{"algo": "ACO", "instance": "XL-n2028-k617", "n": 2027, "seed": 2, "limite": 30.0, "cout": 583967.0, "faisable": true, "temps": 30.418643474578857, "message": "ok"}
+{"algo": "Recuit simul\u00e9", "instance": "XL-n3007-k658", "n": 3006, "seed": 0, "limite": 30.0, "cout": 537883.0, "faisable": true, "temps": 30.13437008857727, "message": "ok"}
+{"algo": "Tabou", "instance": "XL-n3007-k658", "n": 3006, "seed": 0, "limite": 30.0, "cout": 537813.0, "faisable": true, "temps": 30.001611471176147, "message": "ok"}
+{"algo": "ACO", "instance": "XL-n3007-k658", "n": 3006, "seed": 0, "limite": 30.0, "cout": 537668.0, "faisable": true, "temps": 30.04664373397827, "message": "ok"}
+{"algo": "Recuit simul\u00e9", "instance": "XL-n3007-k658", "n": 3006, "seed": 1, "limite": 30.0, "cout": 536738.0, "faisable": true, "temps": 30.001662731170654, "message": "ok"}
+{"algo": "Tabou", "instance": "XL-n3007-k658", "n": 3006, "seed": 1, "limite": 30.0, "cout": 537856.0, "faisable": true, "temps": 30.00221562385559, "message": "ok"}
+{"algo": "ACO", "instance": "XL-n3007-k658", "n": 3006, "seed": 1, "limite": 30.0, "cout": 537668.0, "faisable": true, "temps": 30.196764707565308, "message": "ok"}
+{"algo": "Recuit simul\u00e9", "instance": "XL-n3007-k658", "n": 3006, "seed": 2, "limite": 30.0, "cout": 537883.0, "faisable": true, "temps": 30.002909421920776, "message": "ok"}
+{"algo": "Tabou", "instance": "XL-n3007-k658", "n": 3006, "seed": 2, "limite": 30.0, "cout": 537823.0, "faisable": true, "temps": 30.00081992149353, "message": "ok"}
+{"algo": "ACO", "instance": "XL-n3007-k658", "n": 3006, "seed": 2, "limite": 30.0, "cout": 537668.0, "faisable": true, "temps": 30.043188333511353, "message": "ok"}
